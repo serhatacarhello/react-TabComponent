@@ -27,13 +27,13 @@ function App() {
           tab="Tab 4"
           style={{ backgroundColor: "white", color: "black" }}
         >
-          Tab 4 İcerigi
+          <p>This is the content of Tab 4.</p>
         </Content>
         <Content
           tab="Tab 5"
           style={{ backgroundColor: "orange", color: "blue" }}
         >
-          Tab 5 İcerigi
+          <p>This is the content of Tab 5.</p>
         </Content>
       </Tab>
     </>
